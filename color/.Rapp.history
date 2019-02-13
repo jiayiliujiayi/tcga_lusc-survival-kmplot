@@ -1,0 +1,2 @@
+load("/Users/JiayiLiu/Downloads/ngsanalysis/color/rnaseq.LUSC.RData")
+load("/Users/JiayiLiu/Downloads/ngsanalysis/color/rnaseq-LUSC.RData")
